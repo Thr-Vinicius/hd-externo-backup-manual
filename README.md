@@ -1,4 +1,4 @@
-# HD Externo para Backup Manual
+<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/10aadd4a-20f6-4dc3-97b9-c3b2abb9f2e7" /># HD Externo para Backup Manual
 
 Projeto pessoal de reutilização de hardware, transformando o HD de um notebook antigo em uma unidade externa destinada ao armazenamento e backup de arquivos importantes.
 
@@ -33,6 +33,21 @@ Os dados são organizados em categorias para facilitar a localização e manuten
 * Documentos
 * Outros arquivos pessoais
 
+* ## Estrutura de Diretórios
+
+Exemplo da organização utilizada:
+
+- Aulas
+- BKP's
+- Familia
+- Fotos
+- Importantes
+- Outros
+- Trabalho
+- Videos
+
+A estrutura foi criada para facilitar a localização de arquivos e manter a separação entre conteúdos pessoais, acadêmicos e profissionais.
+
 ## Estratégia de Backup
 
 O backup é realizado manualmente em intervalos regulares.
@@ -62,3 +77,13 @@ Durante este projeto pude desenvolver conhecimentos relacionados a:
 * Controle e gestão de informações pessoais.
 
 Mais do que um projeto técnico, esta experiência contribuiu para desenvolver hábitos de organização, valorização dos meus dados e maior responsabilidade no ambiente digital.
+
+## Hardware Utilizado
+
+<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/cc5615a0-e184-415f-a901-4e1f0da0f826" />
+
+HD de notebook reutilizado através de uma case SATA para USB.
+
+## Organização dos Arquivos
+
+<img width="1449" height="310" alt="image" src="https://github.com/user-attachments/assets/ff6a7753-1857-4ff3-aa42-5b7f9e4a30a0" />
