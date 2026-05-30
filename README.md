@@ -87,3 +87,11 @@ HD de notebook reutilizado através de uma case SATA para USB.
 ## Organização dos Arquivos
 
 <img width="1449" height="310" alt="image" src="https://github.com/user-attachments/assets/ff6a7753-1857-4ff3-aa42-5b7f9e4a30a0" />
+
+## Especificações do Hardware
+
+- Modelo: Hitachi HTS547550A9E384
+- Capacidade: 500 GB
+- Interface: SATA
+- Conexão externa: Case SATA para USB
+- Uso atual: Backup manual de arquivos pessoais
