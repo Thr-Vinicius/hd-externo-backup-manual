@@ -1,4 +1,4 @@
-<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/10aadd4a-20f6-4dc3-97b9-c3b2abb9f2e7" /># HD Externo para Backup Manual
+# HD Externo para Backup Manual
 
 Projeto pessoal de reutilização de hardware, transformando o HD de um notebook antigo em uma unidade externa destinada ao armazenamento e backup de arquivos importantes.
 
