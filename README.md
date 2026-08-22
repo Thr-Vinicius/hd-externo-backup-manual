@@ -22,7 +22,7 @@ Além de evitar desperdício de hardware, o projeto também teve como foco melho
 4. Organização da estrutura de pastas;
 5. Definição de uma rotina periódica de backup.
 
-## Organização dos Arquivos
+## Visualização da Organização
 
 Os dados são organizados em categorias para facilitar a localização e manutenção, incluindo:
 
@@ -33,7 +33,7 @@ Os dados são organizados em categorias para facilitar a localização e manuten
 * Documentos
 * Outros arquivos pessoais
 
-* ## Estrutura de Diretórios
+## Estrutura de Diretórios
 
 Exemplo da organização utilizada:
 
