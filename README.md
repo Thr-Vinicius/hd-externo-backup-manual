@@ -1,6 +1,6 @@
 # HD Externo para Backup Manual
 
-```Status: Projeto pessoal concluído e arquivado. Este repositório permanece disponível como documentação da reutilização do hardware e da estratégia de backup manual.```
+> **Status:** Projeto escolar concluído e arquivado. Este repositório permanece disponível como registro da atividade e do processo de aprendizado.
 
 Projeto pessoal de reutilização de hardware, transformando o HD de um notebook antigo em uma unidade externa destinada ao armazenamento e backup de arquivos importantes.
 
